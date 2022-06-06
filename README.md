@@ -1,3 +1,1 @@
-# project_pacmann
-
-this is my project
+# Pacmann Project Lab Data Science Final Project: IVF Prediction Task
