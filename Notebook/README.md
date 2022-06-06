@@ -14,4 +14,4 @@ From initial 95 features, we only kept 57 features + 1 target features.
 
 After that, the reduced dataset then splitted into train, validation, and test dataset with proportion of 60:20:20.
 
-The splitting was done using ==sklearn.preprocess.train_test_split==
+The splitting was done using **sklearn.preprocess.train_test_split**
