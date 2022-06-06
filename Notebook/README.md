@@ -5,7 +5,7 @@ description goes here
 
 ## 1. Data Preparations
 
-![data preparations flowchart](https://github.com/romstormy27/project_pacmann/tree/main/Figures/pacmann_ml project_diagrams.png)
+![data preparations flowchart](https://github.com/romstormy27/project_pacmann/tree/main/Figures/pacmann_mlproject_diagrams.png)
 
 The first step was to look forward for each features in the dataset due to large numbers of them.
 So, the first step to reduce them was to drop all the features that had NaN values more than 10%.
